@@ -1,3 +1,4 @@
+//Write a program that will take 2 values from users and use ternary operators to find the largest number among them.
 import java.util.Scanner;
 class BiggerNo
 {
