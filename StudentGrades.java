@@ -1,0 +1,40 @@
+import java.util.Scanner;
+public class StudentGrades
+{
+	public static void main(String s[])
+	{
+		int a,b,c,d,sum;
+		Scanner sc=new Scanner(System.in);
+		System.out.println("Enter marks of subject 1:");
+		a=sc.nextInt();
+		System.out.println("Enter marks of subject 2:");
+		b=sc.nextInt();
+		System.out.println("Enter marks of subject 3:");
+		c=sc.nextInt();
+		System.out.println("Enter marks of subject 4:");
+		d=sc.nextInt();
+		
+		sum=a+b+c+d;
+		System.out.println("Total Marks="+sum);
+		
+		double avg= sum/4.0;
+		System.out.println("Average marks="+avg);
+		
+		if(avg>90)
+		{
+			System.out.println("Grade A");
+		}
+		else if((avg>80) && (avg<90))
+		{
+			System.out.println("Grade B");
+		}
+		else if((avg>70) && (avg<80))
+		{
+			System.out.println("Grade C");
+		}
+		else{
+			System.out.println("Fail");
+		}
+			
+	}
+}
