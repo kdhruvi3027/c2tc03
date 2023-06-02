@@ -1,4 +1,4 @@
-//Write a program to take 3 values from user and find addition and average of these values
+//3)  Write a program to take 3 values from user and find addition and average of these values
 //and grade them like if avg marks>90 then A , between 80 to 90 then B, between 70 to 80 then C otherwise fail
 import java.util.Scanner;
 public class StudentGrades
