@@ -4,7 +4,7 @@
 //MAIN CLASS & ANOTHER CLASS IS account.java 
 import java.util.*;
 
-public class Account1 
+public class account1 
 {
     public static void main(String[] args) 
     {
