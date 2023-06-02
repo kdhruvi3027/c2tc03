@@ -1,3 +1,4 @@
+//class Member, Employee,Manager.java
 //7) Create a class named 'Member' having the following members:
 //Data members
 //1 - Name
