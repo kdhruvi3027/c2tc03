@@ -2,6 +2,6 @@
 public class atm_action {
 	public void eat()
 	{
-		System.out.println("Activity is Eating");
+		System.out.println("Action is Eating");
 	}
 }
