@@ -1,3 +1,4 @@
+//class account.java
 //5)  Create a program of ATM  which allows you to withdraw and deposit money. 
 //Your min balance must be 1000 while withdrawing and if it is less then you can't withdraw money .
 //During deposit it simply add the amount to the balance. by using getter and setter
