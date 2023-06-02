@@ -1,3 +1,4 @@
+//class atm_action,stu2.java
 //8)  Inheritance using this keyword
 public class stu1 {
 	public static void main(String s[])
