@@ -1,3 +1,4 @@
+//class Employee1.java
 //6)  Write a program using constructor that would print 
 //the information (name, year of joining, salary, address) of three employees by creating a class named 'Employee'. 
 //The output should be as follows:
