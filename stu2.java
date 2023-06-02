@@ -1,5 +1,5 @@
 //8.2
-public class stu2 extends Atm_action {
+public class stu2 extends atm_action {
 
 	private long mobileno;
 	private int age;
